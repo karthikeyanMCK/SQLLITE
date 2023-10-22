@@ -1,0 +1,28 @@
+export default{
+    primary:'#14A294',
+    secondary:"#DEFFFC",
+    white:'#FFF',
+    black:'#000',
+    liteGrey:'#6A6666',
+    brightGrey:'#ECEBF0',
+    greyBorder:'#EEE',
+    grapeCremeIcon:"#bdbbbb",
+    primaryLinear:'#14A294',
+    secondaryLinear:'#016755',
+    thirdLinear:'#DEFFFC',
+    redColour:"#CC3D00",
+    greyIcon:"#8F949F",
+    nobel:'#b5b2b1',
+    pink:'#F6D4D4',
+    orange:'#fc685d',
+    yellow:'#DFA129',
+    orangeRed:'#D44424',
+    green:'#02c744',
+    neonBlue:'#29D8FF',
+    whiteSmoke:'#F4F4F4',
+    brightRed:"#FF0202",
+    ironGrey:'#666',
+    lemonGrey:'#999',
+    
+    }
+    
